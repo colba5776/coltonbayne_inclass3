@@ -1,0 +1,14 @@
+.container-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.buttons {
+  margin-top: 20px;
+}
